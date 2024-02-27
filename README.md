@@ -14,7 +14,6 @@
 <p align="center">
 <a href = "https://youtube.com/aircool08"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>  
 <a href = "https://twitch.tv/aircool08"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
-<a href = "https://www.instagram.com/aircool08/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.reddit.com/aircool08/"><img src="https://img.icons8.com/fluent/48/000000/reddit.png"/></a>  
 <a href = "https://solo.to/aircool08"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a> 
 <a href = "https://dsc.gg/aircool"><img src="https://img.icons8.com/color/48/000000/discord.png"/></a>   
